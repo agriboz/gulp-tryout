@@ -1,0 +1,14 @@
+@import 'variables';
+
+body {
+	color: $red;
+	p {
+		font-size: 16px;
+		text-align: left;
+		font-weight: 300;
+	}
+	div {
+		text-align: left;
+	}
+}
+
