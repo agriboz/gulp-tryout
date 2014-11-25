@@ -1,4 +1,17 @@
 {
+  "name" : "gulp.js skeleton",
+  "version" : "0.0.1",
+  "description" : "Personal gulp.js tryout",
+  "repository" : {
+        "type" : "git",
+        "url"   : "git@github.com:agriboz/gulp-tryout.git"
+  },
+  "author" : "Can Agriboz",
+  "licence" : "MIT",
+  "bugs" : {
+    "url" : "https://github.com/agriboz/gulp-tryout/issues"
+  },
+  "homepage" : "https://github.com/agriboz/gulp-tryout/",
   "devDependencies": {
     "vinyl-source-stream": "^1.0.0",
     "gulp": "^3.8.10",
