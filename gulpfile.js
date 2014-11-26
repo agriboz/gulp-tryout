@@ -86,6 +86,6 @@ gulp.task('watch', function(){
 });
 
 
-gulp.task('cil', ['scripts', 'default']);
+gulp.task('ci', ['default']);
 
 gulp.task('default', ['jade', 'scripts', 'sass' ,'watch']); // run-sequence
