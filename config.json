@@ -1,0 +1,9 @@
+{
+  "jade" : {
+  	"src" : "src/templates/**/*.jade",
+  	"build" : "builds/"
+  },
+  "mobile" : {
+    "dest" : "build/mobile/js"
+  }
+}
