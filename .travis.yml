@@ -7,7 +7,4 @@ before_script:
   - npm install -g gulp
 
 script: 
-  - gulp
-
-git:
-  depth: 10
+  - gulp ci
