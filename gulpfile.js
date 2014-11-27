@@ -9,4 +9,4 @@ gulp.task('jade', function(){
 	.pipe(gulp.dest(config.jade.build))
 });
 
-gulp.task('ci', ['testing']);
+gulp.task('ci', ['jade']);
